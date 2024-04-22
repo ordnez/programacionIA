@@ -1,3 +1,4 @@
-# programacionIA
+<h1 align="center">TRABAJO</h1>
+
 ## AUTOR: JAMES ORDOÑEZ
-<h1 align="center">PROGRACION CON IA </h1>
+<h1 align="center">PROGRAMACION CON IA </h1>
