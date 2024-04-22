@@ -9,3 +9,6 @@
 Imagina que estás enseñando a un robot a reconocer gatos en fotos. Primero, le mostraría muchas imágenes de gatos y le diría: "¡Esto es un gato!". Luego, le enseñaría a reconocer las características de los gatos, como las orejas puntiagudas o el pelaje rayado. Después, le mostraría más imágenes y le preguntaría: "¿Hay un gato aquí?".
 
 La programación de IA implica escribir instrucciones para que la computadora pueda aprender de esos ejemplos y tomar decisiones similares por sí misma en situaciones nuevas. Se trata de enseñar a las máquinas a pensar y actuar de manera inteligente, ¡casi como si estuvieran aprendiendo como lo haría un ser humano!
+
+## ejemplos de aplicaciones de programación con inteligencia artificial:
+1.Reconocimiento facial : Programas que pueden identificar caras en fotos o videos, como los que usamos en redes sociales para etiquetar amigos.
