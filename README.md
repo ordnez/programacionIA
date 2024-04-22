@@ -31,5 +31,5 @@ La programación de IA implica escribir instrucciones para que la computadora pu
 
 10.___Generación de contenido___ : Modelos de IA que pueden escribir noticias, crear música, generar arte o incluso escribir código, basándose en patrones aprendidos de conjuntos de datos existentes.
 
-## enlaces
+## Enlaces de interes
 
