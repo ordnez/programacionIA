@@ -43,4 +43,11 @@ La programación de IA implica escribir instrucciones para que la computadora pu
 <img src="./logos/ATPBot-Trading-IA.jpg" height="500">
 </p>
 
+<p align="center">
+<img src="./logos/ATPBot-Trading-IA.jpg" height="500">
+</p>
+
+
+
+
 
