@@ -52,7 +52,7 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 ## IMAGENES
 |       |       |       |
 |:-----:|:-----:|:-----:|
-| ![Imagen 1](./logos/historia-programacion-web.jpg) *El desarrollo de la inteligencia artificial*| ![Imagen 2](./logos/virtualassistant.png.jpg) *El resurgir de la inteligencia artificial*| ![Imagen 3](./logos/historia-openai-microsoft.jpg.jpg) *El presente de la IA*|
+| ![Imagen 1](./logos/historia-programacion-web.jpg) width="200">*El desarrollo de la inteligencia artificial*| ![Imagen 2](./logos/virtualassistant.png.jpg) width="200">*El resurgir de la inteligencia artificial*| ![Imagen 3](./logos/historia-openai-microsoft.jpg.jpg) width="200">*El presente de la IA*|
 
 ## ENLACES DE INTERES
 
