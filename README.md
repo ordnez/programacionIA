@@ -4,24 +4,20 @@
 <h1 align="center">PROGRAMACION CON IA </h1>
 
 ## Contenidos
-1. [¿Qué es programación con IA?](#qué-es-programación-con-ia)
-2. [Ejemplos de aplicaciones con IA](#ejemplos-de-aplicaciones-con-IA)
+1. [¿Qué es programación con IA?](#¿qué-es-programación-con-ia?)
+2. [Ejemplos de aplicaciones con IA](#ejemplos-de-aplicaciones-con-ia)
    
-   - [Historia de Python](#historia-de-python)
-   - [Principales usos de Python](#principales-usos-de-python)
-4. [Diagramas UML](#diagramas-uml)
-5. [Referencias](#referencias)
-
+  
    
 
-## ¿Qué es Programacion con I.A?
+## ¿Qué es Programacion con IA?
  la programación con inteligencia artificial (IA) es como enseñarle a una computadora a hacer cosas inteligentes, como tomar decisiones, reconocer patrones o entender el lenguaje humano. Es como si estuvieras entrenando a un asistente digital para que haga tareas por ti.
 
 Imagina que estás enseñando a un robot a reconocer gatos en fotos. Primero, le mostraría muchas imágenes de gatos y le diría: "¡Esto es un gato!". Luego, le enseñaría a reconocer las características de los gatos, como las orejas puntiagudas o el pelaje rayado. Después, le mostraría más imágenes y le preguntaría: "¿Hay un gato aquí?".
 
 La programación de IA implica escribir instrucciones para que la computadora pueda aprender de esos ejemplos y tomar decisiones similares por sí misma en situaciones nuevas. Se trata de enseñar a las máquinas a pensar y actuar de manera inteligente, ¡casi como si estuvieran aprendiendo como lo haría un ser humano!
 
-## ejemplos de aplicaciones de programación con I.A
+## ejemplos de aplicaciones de programación con IA
 
 1.___Reconocimiento facial___ : Programas que pueden identificar caras en fotos o videos, como los que usamos en redes sociales para etiquetar amigos.
 
