@@ -7,7 +7,7 @@
 1. [¿Qué es programacion con IA?](#¿que-es-programacion-con-ia?)
 2. [ejemplos de programación con IA](#ejemplos-de-programacion-con-ia)
    - [Historia de la IA](#historia-de-la-ia)
-   - [Imagenes](#imagenes)
+   - [IMAGENES](#imagenes)
 3. [Diagramas UML](#diagramas-uml)
 4. [Referencias](#referencias)
 
@@ -53,7 +53,7 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 
 
 
-## Imágenes
+## IMAGENES
 |       |       |       |
 |:-----:|:-----:|:-----:|
 | ![Imagen 1](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 2](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 3](./logos/ATPBot-Trading-IA.jpg) |
