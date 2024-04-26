@@ -1,14 +1,6 @@
 <h1 align="center">TRABAJO</h1>
 
-## <span style="animation: aparecer-desaparecer 2s infinite;">AUTOR: JAMES ORDOÑEZ</span>
-
-<style>
-  @keyframes aparecer-desaparecer {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-</style>
+## <span style="color:blue;">AUTOR: JAMES ORDOÑEZ</span>
 
 <h1 align="center">___PROGRAMACION CON IA___ </h1>
 
