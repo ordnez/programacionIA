@@ -11,6 +11,8 @@
 3. [Diagramas UML](#diagramas-uml)
 4. [Referencias](#referencias)
 
+   
+
 ## ¿Qué es Programacion con I.A?
  la programación con inteligencia artificial (IA) es como enseñarle a una computadora a hacer cosas inteligentes, como tomar decisiones, reconocer patrones o entender el lenguaje humano. Es como si estuvieras entrenando a un asistente digital para que haga tareas por ti.
 
