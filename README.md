@@ -67,8 +67,8 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 
 ## ENLACES DE INTERES
 - [ORIGEN ](https://www.youtube.com/watch?v=kwjiqBvXVeA&ab_channel=ConmiMente)
-- [Tutorial de UML](https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml)
-- [Más sobre algoritmos](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [QUE ES LA IA Y COMO FUNCIONA](https://www.youtube.com/watch?v=_tA5cinv0U8&ab_channel=Derivando)
+- [](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
 
 
