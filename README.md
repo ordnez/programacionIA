@@ -51,7 +51,7 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 
 ## IMAGENES
 
-| <img src="./logos/historia-programacion-web.jpg" style="width:1000px;"> | <img src="./logos/virtualassistant.png.jpg" style="width:1000px;"> | <img src="./logos/historia-openai-microsoft.jpg.jpg" style="width:1000px;"> |
+| <img src="./logos/historia-programacion-web.jpg" style="width:8000px;"> | <img src="./logos/virtualassistant.png.jpg" style="width:8000px;"> | <img src="./logos/historia-openai-microsoft.jpg.jpg" style="width:8000px;"> |
 |:---:|:---:|:---:|
 
 
