@@ -5,11 +5,12 @@
 
 ## Contenidos
 1. [¿Qué es programación con IA?](#qué-es-programación-con-ia)
-2. [Ejemplos de aplicaciones con IA](#ejemplos-de-aplicaciones-con-ia)
+2. [Ejemplos de aplicaciones con IA](#ejemplos-de-aplicaciones-con-IA)
+   
    - [Historia de Python](#historia-de-python)
    - [Principales usos de Python](#principales-usos-de-python)
-3. [Diagramas UML](#diagramas-uml)
-4. [Referencias](#referencias)
+4. [Diagramas UML](#diagramas-uml)
+5. [Referencias](#referencias)
 
    
 
