@@ -43,7 +43,7 @@ La programación de IA implica escribir instrucciones para que la computadora pu
 
 10.___Generación de contenido___ : Modelos de IA que pueden escribir noticias, crear música, generar arte o incluso escribir código, basándose en patrones aprendidos de conjuntos de datos existentes.
 
-## Historia de programacion con IA
+## Historia de la IA
 La inteligencia artificial surge definitivamente a partir de algunos trabajos publicados en la década de 1940 que no tuvieron gran repercusión, pero a partir del influyente trabajo en 1950 de Alan Turing, matemático británico,con lo cual se abre una nueva disciplina de las ciencias de la información.1​
 
 Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griegos, y a las matemáticas de los árabes, el concepto de obtener razonamiento artificial aparece en el siglo xiv. A finales del siglo xix se obtienen lógicas formales suficientemente poderosas y, a mediados del siglo xx, se obtienen máquinas capaces de hacer uso de tales lógicas y algoritmos de solución.
