@@ -49,10 +49,11 @@ La inteligencia artificial surge definitivamente a partir de algunos trabajos pu
 Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griegos, y a las matemáticas de los árabes, el concepto de obtener razonamiento artificial aparece en el siglo xiv. A finales del siglo xix se obtienen lógicas formales suficientemente poderosas y, a mediados del siglo xx, se obtienen máquinas capaces de hacer uso de tales lógicas y algoritmos de solución.
 
 
-## IMAGENES
-|       |       |       |
-|:-----:|:-----:|:-----:|
-| ![Imagen 1](./logos/historia-programacion-web.jpg) width="200">*El desarrollo de la inteligencia artificial*| ![Imagen 2](./logos/virtualassistant.png.jpg) width="200">*El resurgir de la inteligencia artificial*| ![Imagen 3](./logos/historia-openai-microsoft.jpg.jpg) width="200">*El presente de la IA*|
+## IMÁGENES
+
+| <img src="./logos/historia-programacion-web.jpg" style="width:200px;"> | <img src="./logos/virtualassistant.png.jpg" style="width:200px;"> | <img src="./logos/historia-openai-microsoft.jpg.jpg" style="width:200px;"> |
+|:---:|:---:|:---:|
+
 
 ## ENLACES DE INTERES
 
