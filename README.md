@@ -8,6 +8,7 @@
 2. [EJEMPLOS DE PROGRAMACION CON IA](#ejemplos-de-programacion-con-ia)
    - [HISTORIA DE LA IA](#historia-de-la-ia)
    - [IMAGENES](#imagenes)
+   - [VIDEO DE LA IA](#video-de-la-ia)
 3. [ENLACES DE INTERES](#enlaces-de-interes)
 4. [Referencias](#referencias)
 
@@ -53,6 +54,8 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 
 | <img src="./logos/historia-programacion-web.jpg" style="width:900px;">*El desarrollo de la inteligencia artificial* | <img src="./logos/virtualassistant.png.jpg" style="width:900px;">*El resurgir de la inteligencia artificial* | <img src="./logos/historia-openai-microsoft.jpg.jpg" style="width:900px;">*El presente de la IA* |
 |:---:|:---:|:---:|
+
+## VIDEO DE LA IA
 
 
 ## ENLACES DE INTERES
