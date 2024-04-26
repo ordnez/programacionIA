@@ -1,6 +1,15 @@
 <h1 align="center">TRABAJO</h1>
 
-## AUTOR: JAMES ORDOÑEZ
+## <span style="animation: aparecer-desaparecer 2s infinite;">AUTOR: JAMES ORDOÑEZ</span>
+
+<style>
+  @keyframes aparecer-desaparecer {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
+
 <h1 align="center">___PROGRAMACION CON IA___ </h1>
 
 ## Contenidos
@@ -72,7 +81,7 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 
 
   ## REFERENCIAS
-  - [APLICACION IA ](https://deepmind.google/technologies/gemini/#introduction)
+  - [APLICACION GEMINI IA ](https://deepmind.google/technologies/gemini/#introduction)
   
   
 
