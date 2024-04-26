@@ -3,6 +3,14 @@
 ## AUTOR: JAMES ORDOÑEZ
 <h1 align="center">PROGRAMACION CON IA </h1>
 
+## Contenidos
+ 1. [¿Qué es Programacion con Intelegencia Artificial?](#¿Qué es Programacion con Intelegencia Artificial?)
+2. [Python](#python)
+   - [Historia de Python](#historia-de-python)
+   - [Principales usos de Python](#principales-usos-de-python)
+3. [Diagramas UML](#diagramas-uml)
+4. [Referencias](#referencias)
+
 ## ¿Qué es Programacion con Intelegencia Artificial?
  la programación con inteligencia artificial (IA) es como enseñarle a una computadora a hacer cosas inteligentes, como tomar decisiones, reconocer patrones o entender el lenguaje humano. Es como si estuvieras entrenando a un asistente digital para que haga tareas por ti.
 
