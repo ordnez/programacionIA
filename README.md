@@ -4,7 +4,7 @@
 <h1 align="center">PROGRAMACION CON IA </h1>
 
 ## Contenidos
- 1. [¿Qué es Programacion con Intelegencia Artificial?](#¿Qué es Programacion con Intelegencia Artificial?)
+ 1. [Qué es Programacion con Intelegencia Artificial](#Qué es Programacion con Intelegencia Artificial)
 2. [Python](#python)
    - [Historia de Python](#historia-de-python)
    - [Principales usos de Python](#principales-usos-de-python)
