@@ -48,15 +48,14 @@ La inteligencia artificial surge definitivamente a partir de algunos trabajos pu
 
 Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griegos, y a las matemáticas de los árabes, el concepto de obtener razonamiento artificial aparece en el siglo xiv. A finales del siglo xix se obtienen lógicas formales suficientemente poderosas y, a mediados del siglo xx, se obtienen máquinas capaces de hacer uso de tales lógicas y algoritmos de solución.
 
-## ENLACES DE INTERES
-
-
-
 
 ## IMAGENES
 |       |       |       |
 |:-----:|:-----:|:-----:|
 | ![Imagen 1](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 2](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 3](./logos/ATPBot-Trading-IA.jpg) |
+
+## ENLACES DE INTERES
+
 
 
 
