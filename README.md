@@ -4,14 +4,14 @@
 <h1 align="center">PROGRAMACION CON IA </h1>
 
 ## Contenidos
- 1. [Qué es Programacion con Intelegencia Artificial](#Qué es Programacion con Intelegencia Artificial)
+ 1. [¿Que es programacion con I.A?](#¿que-es-programacion-con-i.A?)
 2. [Python](#python)
    - [Historia de Python](#historia-de-python)
    - [Principales usos de Python](#principales-usos-de-python)
 3. [Diagramas UML](#diagramas-uml)
 4. [Referencias](#referencias)
 
-## ¿Qué es Programacion con Intelegencia Artificial?
+## ¿Qué es Programacion con I.A?
  la programación con inteligencia artificial (IA) es como enseñarle a una computadora a hacer cosas inteligentes, como tomar decisiones, reconocer patrones o entender el lenguaje humano. Es como si estuvieras entrenando a un asistente digital para que haga tareas por ti.
 
 Imagina que estás enseñando a un robot a reconocer gatos en fotos. Primero, le mostraría muchas imágenes de gatos y le diría: "¡Esto es un gato!". Luego, le enseñaría a reconocer las características de los gatos, como las orejas puntiagudas o el pelaje rayado. Después, le mostraría más imágenes y le preguntaría: "¿Hay un gato aquí?".
