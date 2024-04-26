@@ -4,8 +4,8 @@
 <h1 align="center">PROGRAMACION CON IA </h1>
 
 ## Contenidos
- 1. [¿Que es programacion con I.A?](#que-es-programacion-con-i.A)
-2. [ejemplos de aplicaciones de programación con I.A](#ejemplos-de-aplicaciones-con-I.A)
+1. [¿Qué es programación con IA?](#qué-es-programación-con-ia)
+2. [Ejemplos de aplicaciones con IA](#ejemplos-de-aplicaciones-con-ia)
    - [Historia de Python](#historia-de-python)
    - [Principales usos de Python](#principales-usos-de-python)
 3. [Diagramas UML](#diagramas-uml)
