@@ -52,7 +52,7 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 ## IMAGENES
 |       |       |       |
 |:-----:|:-----:|:-----:|
-| ![Imagen 1](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 2](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 3](./logos/ATPBot-Trading-IA.jpg) |
+| ![Imagen 1](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 2](./logos/historia-openai-microsoft.jpg) | ![Imagen 3](./logos/ATPBot-Trading-IA.jpg) |
 
 ## ENLACES DE INTERES
 
