@@ -4,8 +4,8 @@
 <h1 align="center">PROGRAMACION CON IA </h1>
 
 ## Contenidos
-1. [¿Qué es programación con IA?](#¿qué-es-programación-con-ia?)
-2. [Ejemplos de aplicaciones con IA](#ejemplos-de-aplicaciones-con-ia)
+1. [¿Qué es programación con ia?](#qué-es-programación-con-ia)
+2. [Ejemplos de aplicaciones con ia](#ejemplos-de-aplicaciones-con-ia)
    
   
    
