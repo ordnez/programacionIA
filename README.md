@@ -10,7 +10,7 @@
    - [IMAGENES](#imagenes)
    - [VIDEO DE LA IA](#video-de-la-ia)
 3. [ENLACES DE INTERES](#enlaces-de-interes)
-4. [Referencias](#referencias)
+4. [REFERENCIAS](#referencias)
 
   
    
@@ -69,6 +69,10 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 - [ORIGEN ](https://www.youtube.com/watch?v=kwjiqBvXVeA&ab_channel=ConmiMente)
 - [QUE ES LA IA Y COMO FUNCIONA](https://www.youtube.com/watch?v=_tA5cinv0U8&ab_channel=Derivando)
 - [IA + CODE GUIA PARA PROGRAMADORES](https://developero.io/ai-for-developers)
+- 
+
+  ## REFERENCIAS
+  
 
 
 
