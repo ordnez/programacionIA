@@ -7,7 +7,7 @@
 1. [¿Qué es programacion con IA?](#¿que-es-programacion-con-ia?)
 2. [ejemplos de programación con IA](#ejemplos-de-programacion-con-ia)
    - [Historia de la IA](#historia-de-la-ia)
-   - [Imágenes](#imagenes)
+   - [imagenes](#imagenes)
 3. [Diagramas UML](#diagramas-uml)
 4. [Referencias](#referencias)
 
