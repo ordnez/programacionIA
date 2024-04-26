@@ -58,7 +58,7 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 ## VIDEO DE LA IA
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xnvocqg1J5o&ab_channel=Asociaci%C3%B3nColibr%C3%AD">
-    <img src="https://www.youtube.com/watch?v=xnvocqg1J5o&ab_channel=Asociaci%C3%B3nColibr%C3%AD" alt="Video Thumbnail">
+    <img src="https://img.youtube.com/vi/xnvocqg1J5o/0.jpg" alt="Video Thumbnail">
   </a>
 </p>
 
