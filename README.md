@@ -4,14 +4,13 @@
 <h1 align="center">PROGRAMACION CON IA </h1>
 
 ## Contenidos
-- [¿Qué es programación con IA?](#qué-es-programación-con-ia)
-  
-- [Ejemplos de programacion con IA](#ejemplos-de-programacion-con-ia)
-   
-   -[Historia de programacion con IA](#historia-de-programacion-con-ia)
-  
-   -[Imagenes](#imagenes)
-   
+1. [¿Qué es programacion con IA?](#¿que-es-programacion-con-ia?)
+2. [ejemplos de programación con IA](#ejemplos-de-programacion-con-ia)
+   - [Historia de la IA](#historia-de-la-ia)
+   - [Imágenes](#imagenes)
+3. [Diagramas UML](#diagramas-uml)
+4. [Referencias](#referencias)
+
   
    
 
