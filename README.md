@@ -3,14 +3,25 @@
 ## AUTOR: JAMES ORDOÑEZ
 <h1 align="center">PROGRAMACION CON IA </h1>
 
-## ¿Qué es Programacion con Intelegencia Artificial?
+## Contenidos
+1. [QUE ES PROGRAMACION CON IA](#que-es-programacion-con-ia)
+2. [EJEMPLOS DE PROGRAMACION CON IA](#ejemplos-de-programacion-con-ia)
+   - [HISTORIA DE LA IA](#historia-de-la-ia)
+   - [IMAGENES](#imagenes)
+3. [ENLACES DE INTERES](#enlaces-de-interes)
+4. [Referencias](#referencias)
+
+  
+   
+
+## ¿QUE ES PROGRAMACION CON IA?
  la programación con inteligencia artificial (IA) es como enseñarle a una computadora a hacer cosas inteligentes, como tomar decisiones, reconocer patrones o entender el lenguaje humano. Es como si estuvieras entrenando a un asistente digital para que haga tareas por ti.
 
 Imagina que estás enseñando a un robot a reconocer gatos en fotos. Primero, le mostraría muchas imágenes de gatos y le diría: "¡Esto es un gato!". Luego, le enseñaría a reconocer las características de los gatos, como las orejas puntiagudas o el pelaje rayado. Después, le mostraría más imágenes y le preguntaría: "¿Hay un gato aquí?".
 
 La programación de IA implica escribir instrucciones para que la computadora pueda aprender de esos ejemplos y tomar decisiones similares por sí misma en situaciones nuevas. Se trata de enseñar a las máquinas a pensar y actuar de manera inteligente, ¡casi como si estuvieran aprendiendo como lo haría un ser humano!
 
-## ejemplos de aplicaciones de programación con inteligencia artificial
+## EJEMPLOS DE PROGRAMACION CON IA
 
 1.___Reconocimiento facial___ : Programas que pueden identificar caras en fotos o videos, como los que usamos en redes sociales para etiquetar amigos.
 
@@ -32,15 +43,24 @@ La programación de IA implica escribir instrucciones para que la computadora pu
 
 10.___Generación de contenido___ : Modelos de IA que pueden escribir noticias, crear música, generar arte o incluso escribir código, basándose en patrones aprendidos de conjuntos de datos existentes.
 
-## Enlaces de interes
+## HISTORIA DE LA IA
+La inteligencia artificial surge definitivamente a partir de algunos trabajos publicados en la década de 1940 que no tuvieron gran repercusión, pero a partir del influyente trabajo en 1950 de Alan Turing, matemático británico,con lo cual se abre una nueva disciplina de las ciencias de la información.1​
+
+Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griegos, y a las matemáticas de los árabes, el concepto de obtener razonamiento artificial aparece en el siglo xiv. A finales del siglo xix se obtienen lógicas formales suficientemente poderosas y, a mediados del siglo xx, se obtienen máquinas capaces de hacer uso de tales lógicas y algoritmos de solución.
+
+
+## IMAGENES
+|       |       |       |
+|:-----:|:-----:|:-----:|
+| ![Imagen 1](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 2](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 3](./logos/ATPBot-Trading-IA.jpg) |
+
+## ENLACES DE INTERES
 
 
 
 
-## Imágenes
 
-<p align="center">
-<img src="./logo/ATPBot-Trading-IA.jpg" height="100">
-</p>
+
+
 
 
