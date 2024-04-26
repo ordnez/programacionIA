@@ -1,7 +1,7 @@
 <h1 align="center">TRABAJO</h1>
 
 ## AUTOR: JAMES ORDOÑEZ
-<h1 align="center">PROGRAMACION CON IA </h1>
+<h1 align="center">___PROGRAMACION CON IA___ </h1>
 
 ## Contenidos
 1. [QUE ES PROGRAMACION CON IA](#que-es-programacion-con-ia)
@@ -72,6 +72,8 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 
 
   ## REFERENCIAS
+  - [APLICACION IA ](https://deepmind.google/technologies/gemini/#introduction)
+  - 
   
 
 
