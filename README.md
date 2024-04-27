@@ -1,15 +1,17 @@
 <h1 align="center">TRABAJO</h1>
 
-## AUTOR: JAMES ORDOÑEZ
-<h1 align="center">PROGRAMACION CON IA </h1>
+## <span style="color:blue;">AUTOR: JAMES ORDOÑEZ</span>
+
+<h1 align="center">___PROGRAMACION CON IA___ </h1>
 
 ## Contenidos
 1. [QUE ES PROGRAMACION CON IA](#que-es-programacion-con-ia)
 2. [EJEMPLOS DE PROGRAMACION CON IA](#ejemplos-de-programacion-con-ia)
    - [HISTORIA DE LA IA](#historia-de-la-ia)
    - [IMAGENES](#imagenes)
+   - [VIDEO DE LA IA](#video-de-la-ia)
 3. [ENLACES DE INTERES](#enlaces-de-interes)
-4. [Referencias](#referencias)
+4. [REFERENCIAS](#referencias)
 
   
    
@@ -50,11 +52,31 @@ Si bien las ideas esenciales se remontan a la lógica y algoritmos de los griego
 
 
 ## IMAGENES
-|       |       |       |
-|:-----:|:-----:|:-----:|
-| ![Imagen 1](./logos/ATPBot-Trading-IA.jpg) | ![Imagen 2](./logos/historia-openai-microsoft.jpg) | ![Imagen 3](./logos/ATPBot-Trading-IA.jpg) |
+
+| <img src="./logos/historia-programacion-web.jpg" style="width:900px;">*El desarrollo de la inteligencia artificial* | <img src="./logos/virtualassistant.png.jpg" style="width:900px;">*El resurgir de la inteligencia artificial* | <img src="./logos/historia-openai-microsoft.jpg.jpg" style="width:900px;">*El presente de la IA* |
+|:---:|:---:|:---:|
+
+## VIDEO DE LA IA
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xnvocqg1J5o&ab_channel=Asociaci%C3%B3nColibr%C3%AD" target="_blank">
+    <img src="https://img.youtube.com/vi/xnvocqg1J5o/0.jpg" alt="Video Thumbnail">
+  </a>
+</p>
+
+
 
 ## ENLACES DE INTERES
+- [ORIGEN ](https://www.youtube.com/watch?v=kwjiqBvXVeA&ab_channel=ConmiMente)
+- [LA IA Y COMO FUNCIONA](https://www.youtube.com/watch?v=_tA5cinv0U8&ab_channel=Derivando)
+- [IA + CODE GUIA PARA PROGRAMADORES](https://developero.io/ai-for-developers)
+
+
+  ## REFERENCIAS
+  - [APLICACION GEMINI IA ](https://deepmind.google/technologies/gemini/#introduction)
+  
+  
+
 
 
 
